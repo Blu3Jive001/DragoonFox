@@ -17,3 +17,13 @@ A Firefox-CSS theme designed to replicate explorer tabs shown in the poplar Drag
 6. Enjoy!
 
 You should also set Firefox to "compact" and "dark mode". Those two options are available under menu > customize.
+
+## Screenshots
+
+### Browser
+
+![oof](https://github.com/Blu3Jive001/DragoonFox/blob/master/Images/Firefox.png)
+
+### Github
+
+![oof1](https://github.com/Blu3Jive001/DragoonFox/blob/master/Images/File_Explorer.png)
