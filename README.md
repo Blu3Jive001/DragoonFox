@@ -2,6 +2,8 @@
 
 A Firefox-CSS theme designed to replicate explorer tabs shown in the poplar Dragoon UI by KaLam1ty-AC, and made in the renowned DragoonX theme by niivu. A big thank you to MrOtherGuy for his helpful CSS snippets website.
 
+Works perfectly with my [DragoonX](https://github.com/Blu3Jive001/DragoonX) rice.
+
 ## Setup
 
 ### Firefox css
