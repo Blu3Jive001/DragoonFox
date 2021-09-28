@@ -25,6 +25,6 @@ You should also set Firefox to "compact" and "dark mode". Those two options are 
 
 ![oof](https://github.com/Blu3Jive001/DragoonFox/blob/master/Images/Firefox.png)
 
-### Github
+### Windows Explorer
 
 ![oof1](https://github.com/Blu3Jive001/DragoonFox/blob/master/Images/File_Explorer.png)
