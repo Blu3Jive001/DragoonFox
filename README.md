@@ -13,7 +13,7 @@ A Firefox-CSS theme designed to replicate explorer tabs shown in the poplar Drag
     - If you're on Windows: `C:\Users\<USERNAME>\AppData\Roaming\Mozilla\Firefox\Profiles\XXXXXXX.default-XXXXXX`
     - If you're on MacOS: `Users/<USERNAME>/Library/Application Support/Firefox/Profiles/XXXXXXX.default-XXXXXXX` 
 4. Create a folder and name it **`chrome`** (with lowercase).
-5. Then paste the `userChrome.css` and the `userContent.css` files into the folder.
+5. Then paste the all of the files into the folder.
 6. You'll need to enable Title Bar in "Customize Toolbar" (found by right clicking tab bar)
 7. Enjoy!
 
